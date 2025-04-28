@@ -1,2 +1,2 @@
-# Python_project_ML
-Email_Spam_Detection
+# Email_Spam_Detection
+python_project_ML
